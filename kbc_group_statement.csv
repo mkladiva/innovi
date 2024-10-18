@@ -1,0 +1,28 @@
+line,parent line,level,pos,Breakdown P&L (in millions of EUR),Group,Belgium,Czechia,International markets,Group Centre
+1,9,1,689.405103,Net interest income,"1,379",831,323,317,-92
+2,9,2,1742.058084,Insurance revenues before reinsurance,726,445,144,133,4
+3,2,1,1685.156634,Non-life,613,371,119,119,4
+4,2,1,2048.404512,Life,114,74,25,15,0
+5,9,1,2118.305381,Dividend income,26,24,1,0,1
+6,9,1,2132.850812,Net result from financial instruments at fair value through profit or loss & Insurance finance income and expense (for contracts issued),3,-64,10,14,42
+7,9,1,2445.962178,Net fee and commission income,623,409,84,131,-1
+8,9,1,2896.869599,Net other income,51,46,-1,9,-3
+9,,3,1404.302933,TOTAL INCOME,"2,809","1,692",561,605,-49
+10,9,4,475.0630715,Operating expenses (excluding directly attributable from insurance),-950,-503,-196,-215,-36
+11,10,5,536.8649295,Total Opex without banking and insurance tax,"-1,074",-609,-221,-207,-37
+12,10,5,1074.8726505,Total banking and insurance tax ,-2,32,-3,-32,0
+13,10,5,1013.0707925,Minus: Opex allocated to insurance service expenses,126,73,27,25,1
+14,9,4,1244.9718835,Insurance service expenses before reinsurance,-590,-363,-104,-121,-1
+15,,,,Of which Insurance commissions paid,-92,-59,-16,-17,0
+16,14,5,1330.6202075,Non-Life,-514,-311,-91,-111,-1
+17,,,,of which Non-Life - Claim related expenses,-331,-210,-53,-67,-1
+18,14,5,2342.5213755,Life,-76,-53,-12,-11,0
+19,9,4,1551.7052315,Net result from reinsurance contracts held,-24,-9,-6,-3,-6
+20,9,4,1605.952127,Impairment,-85,-123,41,-3,1
+21,20,5,1684.1719455,on FA at amortised cost and at FVOCI,-72,-122,41,9,1
+22,20,5,1720.032476,on goodwill,0,0,0,0,0
+23,20,5,1739.5287485,other,-13,-1,-1,-11,
+24,9,4,1647.421717,Share in results of associated companies and joint ventures,2,1,0,0,0
+25,9,5,581,RESULT BEFORE TAX,"1,162",694,297,263,-92
+26,25,6,699.5150805,Income tax expense,-237,-176,-52,-39,30
+27,25,6,462.5587665,RESULT AFTER TAX,925,518,244,224,-61
